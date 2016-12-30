@@ -1,0 +1,16 @@
+    // 行间距 段前间距，以像素为单位
+    "line_padding_top": 2,
+    // 行间距 段后间距，以像素为单位
+    "line_padding_bottom": 2,
+
+    // 设置字体和大小   
+    "font_face": "mononoki",
+    "font_size": 12,
+
+    // 设置主题文件
+    "theme": "Agila Dracula.sublime-theme",
+    "color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
+    "color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
+    
+    //一行内容太长了,自动换行
+    "word_wrap": true, 
