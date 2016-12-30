@@ -1,16 +1,19 @@
-    // 行间距 段前间距，以像素为单位
-    "line_padding_top": 2,
-    // 行间距 段后间距，以像素为单位
-    "line_padding_bottom": 2,
+    // 设置主题文件
+    "theme": "Agila Dracula.sublime-theme",
+    "color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
+    "color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
 
     // 设置字体和大小   
     "font_face": "mononoki",
     "font_size": 12,
 
-    // 设置主题文件
-    "theme": "Agila Dracula.sublime-theme",
-    "color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
-    "color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
-    
+    // 行间距 段前间距，以像素为单位
+    "line_padding_top": 2,
+    // 行间距 段后间距，以像素为单位
+    "line_padding_bottom": 2,   
+
     //一行内容太长了,自动换行
     "word_wrap": true, 
+
+    // 在文字上双击会全选当前的内容，如果里面出现以下字符，就会被截断
+    "word_separators": "./\\()\"'-:：,.;<>~!@#$%^&*|+=[]{}`~?",
