@@ -67,21 +67,33 @@
 "theme": "Agila.sublime-theme",
 "color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
 "color_scheme": "Packages/Agila Theme/Markdown/Oceanic Next Markdown.tmTheme",
+"theme_agila_sidebar_mini": true,
+"theme_agila_sidebar_font_xsmall": true, //font-size: 11
+"theme_agila_compact_tab": true,
 
 * Agila Dracula Theme
 
 "theme": "Agila Dracula.sublime-theme",
 "color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
 "color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
+"theme_agila_sidebar_mini": true,
+"theme_agila_sidebar_font_xsmall": true, //font-size: 11
+"theme_agila_compact_tab": true,
 
 * Agila Monokai Theme
 
 "theme": "Agila Monokai.sublime-theme",
 "color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
 "color_scheme": "Packages/Agila Theme/Markdown/Monokai Markdown.tmTheme",
+"theme_agila_sidebar_mini": true,
+"theme_agila_sidebar_font_xsmall": true, //font-size: 11
+"theme_agila_compact_tab": true,
 
 * Agila Neon Theme
 
 "theme": "Agila Neon.sublime-theme",
 "color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
 "color_scheme": "Packages/Agila Theme/Markdown/Neon Monocyanide Markdown.tmTheme",
+"theme_agila_sidebar_mini": true,
+"theme_agila_sidebar_font_xsmall": true, //font-size: 11
+"theme_agila_compact_tab": true,
