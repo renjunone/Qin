@@ -1,11 +1,15 @@
     // 设置主题文件
-    "theme": "Agila Dracula.sublime-theme",
-    "color_scheme": "Packages/Agila Theme/Agila Dracula.tmTheme",
-    "color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+    "theme": "Material-Theme-Palenight.sublime-theme",
+    "material_theme_big_fileicons": true , // 显示大的文件类型图标
+    "material_theme_contrast_mode": true , // 开启侧边栏和窗口颜色对比度
+    "material_theme_small_statusbar": true , // 设置状态栏
+    "material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
+    "material_theme_small_tab": true , // 设置小标签
 
     // 设置字体和大小   
     "font_face": "mononoki",
-    "font_size": 12,
+    "font_size": 11,
 
     // 行间距 段前间距，以像素为单位
     "line_padding_top": 2,

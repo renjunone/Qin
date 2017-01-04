@@ -22,19 +22,35 @@
 
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 "theme": "Material-Theme-Palenight.sublime-theme",
-"material_theme_big_fileicons": true , // Show bigger file type icons
+"material_theme_big_fileicons": true , // 显示大的文件类型图标
+"material_theme_contrast_mode": true , // 开启侧边栏和窗口颜色对比度
+"material_theme_small_statusbar": true , // 设置状态栏
+"material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
+"material_theme_small_tab": true , // 设置小标签
 
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 "theme": "Material-Theme.sublime-theme",
-"material_theme_big_fileicons": true , // Show bigger file type icons
+"material_theme_big_fileicons": true , // 显示大的文件类型图标
+"material_theme_contrast_mode": true , // 开启侧边栏和窗口颜色对比度
+"material_theme_small_statusbar": true , // 设置状态栏
+"material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
+"material_theme_small_tab": true , // 设置小标签
 
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 "theme": "Material-Theme-Darker.sublime-theme",
-"material_theme_big_fileicons": true , // Show bigger file type icons
+"material_theme_big_fileicons": true , // 显示大的文件类型图标
+"material_theme_contrast_mode": true , // 开启侧边栏和窗口颜色对比度
+"material_theme_small_statusbar": true , // 设置状态栏
+"material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
+"material_theme_small_tab": true , // 设置小标签
 
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme",
 "theme": "Material-Theme-Lighter.sublime-theme",
-"material_theme_big_fileicons": true , // Show bigger file type icons
+"material_theme_big_fileicons": true , // 显示大的文件类型图标
+"material_theme_contrast_mode": true , // 开启侧边栏和窗口颜色对比度
+"material_theme_small_statusbar": true , // 设置状态栏
+"material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
+"material_theme_small_tab": true , // 设置小标签
 
 ## Boxy Theme 配置
 "color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
