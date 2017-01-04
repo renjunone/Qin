@@ -4,6 +4,7 @@
 ***
 * 插件  
 [packagecontrol](https://packagecontrol.io/)  
+ChineseLocalizations  
 ConvertToUTF8  
 Git  
 GitGutter  
