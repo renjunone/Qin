@@ -1,3 +1,10 @@
+{
+
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    
     // 设置主题文件
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
     "theme": "Material-Theme-Palenight.sublime-theme",
@@ -8,7 +15,7 @@
     "material_theme_small_tab": true , // 设置小标签
 
     // 设置字体和大小   
-    "font_face": "mononoki",
+    "font_face": "Source Code Pro",
     "font_size": 11,
 
     // 行间距 段前间距，以像素为单位
@@ -21,3 +28,7 @@
 
     // 在文字上双击会全选当前的内容，如果里面出现以下字符，就会被截断
     "word_separators": "./\\()\"'-:：,.;<>~!@#$%^&*|+=[]{}`~?",
+    // 高亮显示当前编辑行
+    "highlight_line": true,
+
+}
