@@ -1,8 +1,5 @@
 ## Sublime Settings  
-
-<div align=center>
 ![Sublime Text](https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png)
-</div>
  
 ***
 * 插件  
