@@ -63,6 +63,10 @@
 "theme": "Boxy Nova.sublime-theme",
 "theme_sidebar_folder_atomized": true,
 
+"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+"theme": "Boxy Ocean.sublime-theme",
+"theme_sidebar_folder_atomized": true,
+
 ***
 ## Agila Theme   
 * Agila
