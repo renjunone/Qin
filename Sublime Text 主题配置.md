@@ -1,8 +1,9 @@
 # 主题配置
 
+***
 ## spacegray theme 配置
 
-"theme": "Spacegray.sublime-theme",
+"theme": "Spacegray.sublime-theme",  
 "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 "spacegray_fileicons": true,
 "spacegray_sidebar_tree_large": true,
@@ -17,7 +18,7 @@
 "spacegray_fileicons": true,
 "spacegray_sidebar_tree_large": true,
 
-
+***
 ## material_theme 配置
 
 "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
@@ -52,6 +53,7 @@
 "material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
 "material_theme_small_tab": true , // 设置小标签
 
+***
 ## Boxy Theme 配置
 "color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
 "theme": "Boxy Monokai.sublime-theme",
@@ -61,6 +63,7 @@
 "theme": "Boxy Nova.sublime-theme",
 "theme_sidebar_folder_atomized": true,
 
+***
 ## Agila Theme   
 * Agila
 
