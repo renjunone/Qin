@@ -10,8 +10,11 @@ ConvertToUTF8
 Git  
 GitGutter  
 Emmet  
+Markdown Preview  
 ColorPicker  
 Color Highlighter  
+BracketHighlighter  
+SideBarEnhancements  
 
 * 主题  
 Agila Theme  
