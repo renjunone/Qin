@@ -5,17 +5,17 @@
 "theme": "Spacegray.sublime-theme",
 "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 "spacegray_fileicons": true,
-"spacegray_tabs_font_large": true,
+"spacegray_sidebar_tree_large": true,
 
 "theme": "Spacegray Light.sublime-theme",
 "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
 "spacegray_fileicons": true,
-"spacegray_tabs_font_large": true,
+"spacegray_sidebar_tree_large": true,
 
 "theme": "Spacegray Eighties.sublime-theme",
 "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 "spacegray_fileicons": true,
-"spacegray_tabs_font_large": true,
+"spacegray_sidebar_tree_large": true,
 
 
 ## material_theme 配置
