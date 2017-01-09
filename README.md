@@ -15,9 +15,9 @@ ColorPicker
 Color Highlighter  
 BracketHighlighter  
 SideBarEnhancements  
-SyncedSidebarBg
-zz File Icons
-AlignTab
+SyncedSidebarBg  
+zz File Icons  
+AlignTab  
 
 * 主题  
 Agila Theme  
