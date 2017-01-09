@@ -11,12 +11,12 @@ Git                  :
 GitGutter            : 显示代码中的编辑,添加或删除  
 Emmet                :  
 Markdown Preview     :  
-ColorPicker          : 取色器 
+ColorPicker          : 取色器  
 Color Highlighter    : 显示选中颜色代码的视觉颜色  
 BracketHighlighter   : 提供括号、引号这类高亮功能  
 SideBarEnhancements  : 增强侧边栏  
 SyncedSidebarBg      : 自动同步侧边栏底色为编辑窗口底色  
-zz File Icons        : 侧边栏文件类型图标 
+zz File Icons        : 侧边栏文件类型图标  
 AlignTab             : 代码对齐  
 
 ***
