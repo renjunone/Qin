@@ -17,6 +17,7 @@ BracketHighlighter
 SideBarEnhancements  
 SyncedSidebarBg
 zz File Icons
+AlignTab
 
 * 主题  
 Agila Theme  
