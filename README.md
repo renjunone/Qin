@@ -21,7 +21,7 @@ AlignTab             : 代码对齐
 
 ***
 #### 主题  
-[Material Theme](https://github.com/equinusocio/material-theme)  
-[Spacegray](https://github.com/kkga/spacegray)  
-[Agila Theme](https://github.com/arvi/Agila-Theme)  
-[Boxy Theme](https://github.com/ihodev/sublime-boxy)  
+[Material Theme ](https://github.com/equinusocio/material-theme)  
+[Spacegray      ](https://github.com/kkga/spacegray)  
+[Agila Theme    ](https://github.com/arvi/Agila-Theme)  
+[Boxy Theme     ](https://github.com/ihodev/sublime-boxy)  
