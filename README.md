@@ -11,6 +11,7 @@ Git                  :
 GitGutter            : 显示代码中的编辑,添加或删除  
 Emmet                :  
 Markdown Preview     :  
+MarkdownLivePreview  :  
 ColorPicker          : 取色器  
 Color Highlighter    : 显示选中颜色代码的视觉颜色  
 BracketHighlighter   : 提供括号、引号这类高亮功能  
