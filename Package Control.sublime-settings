@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"AlignTab",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel-master",
+		"Theme - Spacegray",
+		"zz File Icons"
+	]
+}
