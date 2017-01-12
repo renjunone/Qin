@@ -25,6 +25,7 @@
 
 ***
 #### 主题  
+[One dark theme ](https://github.com/andresmichel/one-dark-theme)  
 [Material Theme ](https://github.com/equinusocio/material-theme)  
 [Spacegray      ](https://github.com/kkga/spacegray)  
 [Agila Theme    ](https://github.com/arvi/Agila-Theme)  
