@@ -6,29 +6,33 @@
     ],
     
     // 设置主题文件
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
-    "theme": "Material-Theme-Palenight.sublime-theme",
-    "material_theme_big_fileicons": true , // 显示大的文件类型图标
-    "material_theme_contrast_mode": true , // 开启侧边栏和窗口颜色对比度
-    "material_theme_small_statusbar": true , // 设置状态栏
-    "material_theme_compact_sidebar": true , // 设置紧凑的侧边栏
-    "material_theme_small_tab": true , // 设置小标签
+    "theme": "One Dark.sublime-theme",
+    "color_scheme": "Packages/One Dark/One Dark.tmTheme",
+    "tree_animation_enabled": false,
+    "indent_guide_options" : [ "draw_normal", "draw_active" ],
+    "margin": 0,
+    "show_scroll_tabs": true,
+    "show_tabs_dropdown": true,
 
     // 设置字体和大小   
     "font_face": "Source Code Pro",
     "font_size": 11,
 
     // 行间距 段前间距，以像素为单位
-    "line_padding_top": 2,
+    "line_padding_top": 1,
     // 行间距 段后间距，以像素为单位
-    "line_padding_bottom": 2,   
+    "line_padding_bottom": 1,   
 
     //一行内容太长了,自动换行
     "word_wrap": true, 
 
     // 在文字上双击会全选当前的内容，如果里面出现以下字符，就会被截断
     "word_separators": "./\\()\"'-:：,.;<>~!@#$%^&*|+=[]{}`~?",
+
     // 高亮显示当前编辑行
     "highlight_line": true,
+    
+    // 显示空格
+    "draw_white_space": "all"
 
 }
