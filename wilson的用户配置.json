@@ -7,7 +7,7 @@
     
     // 设置主题文件
     "theme": "One Dark.sublime-theme",
-    "color_scheme": "Packages/One Dark/One Dark.tmTheme",
+    "color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
     "tree_animation_enabled": false,
     "indent_guide_options" : [ "draw_normal", "draw_active" ],
     "margin": 0,
