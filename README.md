@@ -19,7 +19,7 @@
 [Color Highlighter    ](https://github.com/Monnoroch/ColorHighlighter)                  ： 显示选中颜色代码的视觉颜色  
 [Emmet                ](https://github.com/sergeche/emmet-sublime)                      ： 前端开发神器,提高代码编写的效率  
 [SublimeCodeIntel     ](https://github.com/SublimeCodeIntel/SublimeCodeIntel)           ： 代码提示  
-[zz File Icons        ](https://github.com/ihodev/sublime-file-icons)                   ： 侧边栏文件类型图标  
+[A File Icon          ](https://github.com/ihodev/a-file-icon)                          ： 侧边栏文件类型图标  
 [BracketHighlighter   ](https://github.com/facelessuser/BracketHighlighter)             ： 提供括号、引号这类高亮功能  
 [SyncedSidebarBg      ](https://github.com/aziz/SublimeSyncedSidebarBg)                 ： 自动同步侧边栏底色为编辑窗口底色  
 [SublimeREPL          ](https://github.com/wuub/SublimeREPL)                            ： python shell交互  
