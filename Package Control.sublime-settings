@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Agila Theme",
 		"AlignTab",
 		"BracketHighlighter",
@@ -22,8 +23,8 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel-master",
+		"SublimeREPL",
 		"Theme - One Dark",
-		"Theme - Spacegray",
-		"zz File Icons"
+		"Theme - Spacegray"
 	]
 }
