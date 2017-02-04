@@ -2,6 +2,7 @@
 <div align=center>
 <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png" width="200" height="200" alt="Sublime Text"/>
 </div>
+
 ***
 * 基本编辑  
 Ctrl + Enter	在当前行下面新增一行然后跳至该行  
