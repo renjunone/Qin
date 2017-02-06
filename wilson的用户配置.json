@@ -8,9 +8,8 @@
     // 设置主题文件
     "theme": "One Dark.sublime-theme",
     "color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
-    "tree_animation_enabled": false,
-    "indent_guide_options" : [ "draw_normal", "draw_active" ],
-    "margin": 0,
+
+
     "show_scroll_tabs": true,
     "show_tabs_dropdown": true,
 
@@ -31,8 +30,17 @@
 
     // 高亮显示当前编辑行
     "highlight_line": true,
-    
+
+    // 行号边栏和文字的间距
+    "margin": 0,
+
     // 显示空格
-    "draw_white_space": "all"
+    "draw_white_space": "all",
+
+    // 左边边栏文件夹动画
+    "tree_animation_enabled": false,
+
+    // 制表位的对齐白线，draw_normal为一直显示，draw_active为只显示当前光标所在的代码控制域
+    "indent_guide_options" : [ "draw_normal", "draw_active" ],
 
 }
