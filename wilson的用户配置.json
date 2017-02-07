@@ -43,4 +43,6 @@
     // 制表位的对齐白线，draw_normal为一直显示，draw_active为只显示当前光标所在的代码控制域
     "indent_guide_options" : [ "draw_normal", "draw_active" ],
 
+    "always_show_minimap_viewport" : true,
+
 }
