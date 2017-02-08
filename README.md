@@ -9,6 +9,7 @@
 [packagecontrol       ](https://packagecontrol.io/)  
 [ChineseLocalizations ](https://github.com/rexdf/ChineseLocalization)                   ： 中文化  
 [AlignTab             ](https://github.com/randy3k/AlignTab)                            ： 代码对齐  
+[All Autocomplete     ](https://github.com/alienhard/SublimeAllAutocomplete)            ： 搜索所有打开的文件来寻找匹配的提示词  
 [ConvertToUTF8        ](https://github.com/seanliang/ConvertToUTF8)                     ： GB2312编码改为UTF-8  
 [Git                  ](https://github.com/kemayo/sublime-text-git)                     ：  
 [GitGutter            ](https://github.com/jisaacks/GitGutter)                          ： 显示代码中的编辑,添加或删除  
