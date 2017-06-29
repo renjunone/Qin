@@ -6,15 +6,15 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"Agila Theme",
 		"AlignTab",
+		"All Autocomplete",
+		"AutoFileName",
 		"BracketHighlighter",
 		"ChineseLocalizations",
 		"Color Highlighter",
 		"ColorPicker",
 		"ConvertToUTF8",
 		"Emmet",
-		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"Markdown Preview",
@@ -22,9 +22,7 @@
 		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements",
-		"SublimeCodeIntel-master",
 		"SublimeREPL",
-		"Theme - One Dark",
-		"Theme - Spacegray"
+		"Theme - One Dark"
 	]
 }
