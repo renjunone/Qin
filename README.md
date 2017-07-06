@@ -1,4 +1,4 @@
-## Sublime  
+## Sublime 杂记
 <div align=center>
 <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png" width="250" height="250" alt="Sublime Text"/>
 </div>
