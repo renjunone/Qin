@@ -1,6 +1,6 @@
 GnuPG使用教程
 ====
-###生成密钥   
+### 生成密钥   
 使用以下命令生成自己的密钥：   
 
 >gpg --gen-key   
@@ -17,30 +17,30 @@ GnuPG使用教程
 9.最后，建议再生成一个撤销证书，以便以后密钥作废时，请求公钥服务器撤销你的公钥：    
 >gpg --ken-revoke [用户ID]   
 
-##密钥管理
+## 密钥管理
 
-###列出密钥
+### 列出密钥
 >gpg --list-keys
 
-###删除密钥
+### 删除密钥
 >gpg --delete-key [用户ID]                   # 删除公钥
 >gpg --delete-secret-keys [用户ID]           # 删除私钥
 
-###导出密钥
+### 导出密钥
 公钥和私钥都是以二进制形式存储，使用armor参数可以导出为ASCII码形式。(wilson是用户ID)
 >导出公钥：gpg --armor --output public.key --export wilson
 >导出私钥：gpg --armor --output private.key --export-secret-keys wilson
 
-###导入密钥
+### 导入密钥
 >gpg --import [密钥文件]                 # 从密钥文件导入
 >gpg --keyserver hkp://subkeys.pgp.net --search-keys [用户ID] # 从密钥服务器导入
 
-###上传公钥
+### 上传公钥
 >gpg --send-keys [用户ID] --keyserver hkp://subkeys.pgp.net
 
-##加解密
+## 加解密
 
-###加密
+### 加密
 --recipient参数后跟对方的用户ID；--output参数后面跟导出的文件名；--encrypt参数后跟要加密的文件。
 这里应该注意一个问题，就是你要确定你使用的公钥的可靠性。
 >gpg --recipient wilson --output GPG_1 --encrypt 1.txt
@@ -48,7 +48,7 @@ GnuPG使用教程
 添加--armor导出为ASCII码形式
 >gpg --recipient wilson --armor --output GPG_1 --encrypt 1.txt
 
-###解密
+### 解密
 然后用我自己的私钥解密：
 >gpg [文件名]
 
@@ -57,7 +57,7 @@ GnuPG使用教程
 
 --decrypt参数后跟要解密的文件，然后我这儿用了重定向将解密结果重定向到名为vps的文件中，否则解密结果会直接输出到屏幕。有的介绍说使用--output参数后跟导出文件名，但是我的笔记本上不可以，不知道为什么嗯...
 
-###签名
+### 签名
 有时，我们不需要加密文件，只需要对文件签名，表示这个文件确实是我本人发出的。sign参数用来签名。
 >gpg --sign test.txt
 
@@ -71,7 +71,7 @@ GnuPG使用教程
 是一个二进制的数据，如果想采用ASCII码形式，要加上armor参数
 >gpg --armor --detach-sign test.txt
 
-###帮助
+### 帮助
 >gpg --help
 
 支持的算法：
@@ -90,7 +90,7 @@ GnuPG使用教程
 
 默认的操作依输入数据而定
 
-###指令
+### 指令
 
 | 指令  |                        |                                  |
 
@@ -157,7 +157,7 @@ GnuPG使用教程
 |       | --print-md 算法 [文件] | 使用指定的散列算法打印报文散列值 |
 
 
-###选项
+### 选项
 | 选项   |                          |                                    |
 | :---: | :---: | :---: |
 | -a     | --armor                  | 输出经 ASCII 封装                  |
