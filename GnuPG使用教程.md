@@ -91,69 +91,70 @@ GnuPG使用教程
 默认的操作依输入数据而定
 
 ###指令
-| 指令   |                          |                                    |
 
-| :---: | :---: | :---: |
+| 指令  |                        |                                  |
 
-| -s     | --sign [文件名]          | 生成一份签名                       |
+| :---: | :---:                  | :---:                            |
 
-|        | --clearsign [文件名]     | 生成一份明文签名                   |
+| -s    | --sign [文件名]        | 生成一份签名                     |
 
-| -b     | --detach-sign            | 生成一份分离的签名                 |
+|       | --clearsign [文件名]   | 生成一份明文签名                 |
 
-| -e     | --encrypt                | 加密数据                           |
+| -b    | --detach-sign          | 生成一份分离的签名               |
 
-| -c     | --symmetric              | 仅使用对称加密                     |
+| -e    | --encrypt              | 加密数据                         |
 
-| -d     | --decrypt                | 解密数据(默认)                     |
+| -c    | --symmetric            | 仅使用对称加密                   |
 
-|        | --verify                 | 验证签名                           |
+| -d    | --decrypt              | 解密数据(默认)                   |
 
-|        | --list-keys              | 列出密钥                           |
+|       | --verify               | 验证签名                         |
 
-|        | --list-sigs              | 列出密钥和签名                     |
+|       | --list-keys            | 列出密钥                         |
 
-|        | --check-sigs             | 列出并检查密钥签名                 |
+|       | --list-sigs            | 列出密钥和签名                   |
 
-|        | --fingerprint            | 列出密钥和指纹                     |
+|       | --check-sigs           | 列出并检查密钥签名               |
 
-| -K     | --list-secret-keys       | 列出私钥                           |
+|       | --fingerprint          | 列出密钥和指纹                   |
 
-|        | --gen-key                | 生成一副新的密钥对                 |
+| -K    | --list-secret-keys     | 列出私钥                         |
 
-|        | --delete-keys            | 从公钥钥匙环里删除密钥             |
+|       | --gen-key              | 生成一副新的密钥对               |
 
-|        | --delete-secret-keys     | 从私钥钥匙环里删除密钥             |
+|       | --delete-keys          | 从公钥钥匙环里删除密钥           |
 
-|        | --sign-key               | 为某把密钥添加签名                 |
+|       | --delete-secret-keys   | 从私钥钥匙环里删除密钥           |
 
-|        | --lsign-key              | 为某把密钥添加本地签名             |
+|       | --sign-key             | 为某把密钥添加签名               |
 
-|        | --edit-key               | 编辑某把密钥或为其添加签名         |
+|       | --lsign-key            | 为某把密钥添加本地签名           |
 
-|        | --gen-revoke             | 生成一份吊销证书                   |
+|       | --edit-key             | 编辑某把密钥或为其添加签名       |
 
-|        | --export                 | 导出密钥                           |
+|       | --gen-revoke           | 生成一份吊销证书                 |
 
-|        | --send-keys              | 把密钥导出到某个公钥服务器上       |
+|       | --export               | 导出密钥                         |
 
-|        | --recv-keys              | 从公钥服务器上导入密钥             |
+|       | --send-keys            | 把密钥导出到某个公钥服务器上     |
 
-|        | --search-keys            | 在公钥服务器上搜寻密钥             |
+|       | --recv-keys            | 从公钥服务器上导入密钥           |
 
-|        | --refresh-keys           | 从公钥服务器更新所有的本地密钥     |
+|       | --search-keys          | 在公钥服务器上搜寻密钥           |
 
-|        | --import                 | 导入/合并密钥                      |
+|       | --refresh-keys         | 从公钥服务器更新所有的本地密钥   |
 
-|        | --card-status            | 打印智能卡状态                     |
+|       | --import               | 导入/合并密钥                    |
 
-|        | --card-edit              | 更改智能卡上的数据                 |
+|       | --card-status          | 打印智能卡状态                   |
 
-|        | --change-pin             | 更改智能卡的 PIN                   |
+|       | --card-edit            | 更改智能卡上的数据               |
 
-|        | --update-trustdb         | 更新信任度数据库                   |
+|       | --change-pin           | 更改智能卡的 PIN                 |
 
-|        | --print-md 算法 [文件]   | 使用指定的散列算法打印报文散列值   |
+|       | --update-trustdb       | 更新信任度数据库                 |
+
+|       | --print-md 算法 [文件] | 使用指定的散列算法打印报文散列值 |
 
 
 ###选项
