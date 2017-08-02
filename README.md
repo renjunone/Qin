@@ -1,7 +1,5 @@
 ## Sublime 杂记
-<div align=center>
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png" width="250" height="250" alt="Sublime Text"/>
-</div>
+![Sublime Text](http://7xix3g.com1.z0.glb.clouddn.com/15-7-14/49125259.jpg)
 ***
 #### 插件  
 >import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
