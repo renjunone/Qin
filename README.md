@@ -2,15 +2,19 @@
 
 ![Sublime Text](http://7xix3g.com1.z0.glb.clouddn.com/15-7-14/49125259.jpg)
 
-### [插件管理器](https://packagecontrol.io/)
+### 软件下载
+
+[Sublime Text 3](http://www.sublimetext.com/3) | [Sublime Text 3 Dev](https://www.sublimetext.com/3dev)
+
+***
+
+### 常用插件
 
 ![Package Control](https://packagecontrol.io/img/logo.svg)
 
-**Package Control 安装**：点击菜单中的 “View”–“Show Console”（也可通过快捷键 Ctrl + ` 打开，不过可能因与系统其他软件快捷键冲突而打不开）调出 Console。然后把下面的代码粘贴进去后回车即可，需稍微等待一段时间。
+**[Package Control](https://packagecontrol.io/) 安装** | 点击菜单中的 “View”–“Show Console”（也可通过快捷键 Ctrl + ` 打开，不过可能因与系统其他软件快捷键冲突而打不开）调出 Console。然后把下面的代码粘贴进去后回车即可，需稍微等待一段时间。
 
 > import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
-
-### 常用插件
 
 | 插件                                                                                   | 说明                                 |
 | :---:                                                                                  | :---:                                |
@@ -40,23 +44,23 @@
 
 ### 应用技巧和诀窍
 
-  * 基本编辑   
-Ctrl + Enter 在当前行下面新增一行然后跳至该行   
-Ctrl + Shift + Enter 在当前行上面增加一行并跳至该行   
-Ctrl + ←/→ 进行逐词移动   
-Ctrl + Shift + ←/→ 进行逐词选择 
+  * 基本编辑 
+Ctrl + Enter 在当前行下面新增一行然后跳至该行 
+Ctrl + Shift + Enter 在当前行上面增加一行并跳至该行 
+Ctrl + ←/→ 进行逐词移动 
+Ctrl + Shift + ←/→ 进行逐词选择
 
-  * 选择   
-Ctrl + D 选中一个单词   
-Ctrl + L 选中一行   
-Ctrl + A 全选   
-Ctrl 按住 Ctrl 键再点击想选中的行   
-**Ctrl + D** (选中部分文本时) 直接选中下一次出现的该文本（使用 Ctrl + K 进行跳过，使用 Ctrl + U 进行回退，使用 Esc 退出多重编辑）   
-**Ctrl + Shift + L** 可以将当前选中区域打散，然后进行同时编辑 Ctrl + J 可以把当前选中区域合并为一行 
+  * 选择 
+Ctrl + D 选中一个单词 
+Ctrl + L 选中一行 
+Ctrl + A 全选 
+Ctrl 按住 Ctrl 键再点击想选中的行 
+**Ctrl + D** (选中部分文本时) 直接选中下一次出现的该文本（使用 Ctrl + K 进行跳过，使用 Ctrl + U 进行回退，使用 Esc 退出多重编辑） 
+**Ctrl + Shift + L** 可以将当前选中区域打散，然后进行同时编辑 Ctrl + J 可以把当前选中区域合并为一行
 
-  * 标准查找&替换   
-Ctrl + F 调出搜索框   
-Ctrl + H 进行替换   
-Ctrl + P 会列出当前打开的文件   
-Ctrl + G 然后输入行号以跳转到指定行   
+  * 标准查找&替换 
+Ctrl + F 调出搜索框 
+Ctrl + H 进行替换 
+Ctrl + P 会列出当前打开的文件 
+Ctrl + G 然后输入行号以跳转到指定行 
 Ctrl + R 列出Markdown文档目录
