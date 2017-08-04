@@ -1,10 +1,10 @@
 # Sublime 备忘录
 
-![Sublime Text](http://7xix3g.com1.z0.glb.clouddn.com/15-7-14/49125259.jpg)
+![Sublime Text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502334264&di=584d5f36e5221d03e1cf8021ac79d60c&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.cncrk.com%2Fup%2F1701%2F201701061456399452.jpg)
 
 ### 软件下载
 
-[Sublime Text 3](http://www.sublimetext.com/3)  |  [Sublime Text 3 Dev](https://www.sublimetext.com/3dev)
+[Sublime Text 3](http://www.sublimetext.com/3) | [Sublime Text 3 Dev](https://www.sublimetext.com/3dev)
 
 ***
 
@@ -40,7 +40,7 @@
 
 ### 主题
 
-[One dark theme](https://github.com/andresmichel/one-dark-theme)  |  [Material Theme](https://github.com/equinusocio/material-theme)  |  [Spacegray](https://github.com/kkga/spacegray)  |  [Agila Theme](https://github.com/arvi/Agila-Theme)  |  [Boxy Theme](https://github.com/ihodev/sublime-boxy)
+[One dark theme](https://github.com/andresmichel/one-dark-theme) | [Material Theme](https://github.com/equinusocio/material-theme) | [Spacegray](https://github.com/kkga/spacegray) | [Agila Theme](https://github.com/arvi/Agila-Theme) | [Boxy Theme](https://github.com/ihodev/sublime-boxy)
 
 ### 应用技巧和诀窍
 
